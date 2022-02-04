@@ -8,8 +8,6 @@ This is a simple game built to test a users memory. There's a deck of cards with
 ## Challenge
 Match cards in less time with less moves.
 
-## How to Play
-Load this link in your browser https://memory-game-fend.herokuapp.com/
 
 ## Instructions
 * Click on a card
