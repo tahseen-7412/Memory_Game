@@ -2,7 +2,8 @@
 
 ## What is the Memory Game
 This is a simple game built to test a users memory. There's a deck of cards with different icons. 
-![snippet](img/snippet.png)
+![image](https://user-images.githubusercontent.com/86097201/152505829-acbd7464-abb6-4a67-ae50-2edfc989b816.png)
+
 
 ## Challenge
 Match cards in less time with less moves.
